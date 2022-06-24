@@ -7,6 +7,7 @@ I have over 800 hours of code in Henry's bootcamp using technologies like:
 
 🛠 Tech Stack 💻 Tech Skills 💻
 
+
 HTML 5 ||
 CSS 3	|| Javascript||
 ReactJS||
@@ -17,8 +18,10 @@ VScode||
 NodeJS||
 ExpressJS||
 TypeScript||phpMyAdmin||
-Postgresql||SQL||
+PostgreSQL||SQL||
 Github||Python||Numpy||Tkinter
+
+If you want to contact me to chat: 📩leorodr4446@gmail.com
 
 <!--
 **QKleo/QKleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
