@@ -1,4 +1,11 @@
 ### Hi there 👋 hi i'm leonardo always in search of knowledge
+Full Stack Developer
+👨🏻‍💻 About Me
+💡 I am a passionate about the world of programming, science and knowledge in general, I really like being able to create solutions and solve problems, I am always trying to learn something new, or improve my skills.
+
+I have over 800 hours of code in Henry's bootcamp using technologies like:
+
+🛠 Tech Stack 💻 Tech Skills 💻
 
 <!--
 **QKleo/QKleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
