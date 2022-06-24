@@ -6,6 +6,22 @@ Full Stack Developer
 I have over 800 hours of code in Henry's bootcamp using technologies like:
 
 🛠 Tech Stack 💻 Tech Skills 💻
+HTML
+HTML 5	CSS
+CSS 3	Javascript
+Javascript	ReactJS
+ReactJS	Redux
+Redux	Git
+Git	npm
+npm
+
+Bootstrap	VScode
+VScode	NodeJS
+NodeJS	ExpressJS
+ExpressJS	TypeScript
+TypeScript	Postgresql
+Postgresql	Github
+Github
 
 <!--
 **QKleo/QKleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
